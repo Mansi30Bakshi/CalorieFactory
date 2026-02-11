@@ -207,7 +207,7 @@ const Home = () => {
         </div>
         <div className="hero-image">
           <img 
-            src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600" 
+            src="/HPI.jpg" 
             alt="Healthy Food"
           />
         </div>
